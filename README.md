@@ -4,8 +4,8 @@ In this repository, I will show you my Capstone Project, which I completed as a 
 ## Background
 
 ## Files
-- **One Pager**[Page]()
-- **Powerpoint**[Slides](Social_Media/Data Demons Presentation.pdf)
-- **Tablue**[Charts]()
+- **One Pager** [Page]()
+- **Powerpoint** [Slides](Social_Media/Data Demons Presentation.pdf)
+- **Tablue** [Charts]()
 
 
