@@ -3,7 +3,10 @@ I was in a 6-month COOP fellowship Program where they help first-generation coll
 
 ## Charts
 <img align="left" width="500" height="300" src="https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Dashboard_CPC.png">   
+---
 
+***
+___
 <img align="left" width="500" height="300" src="https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Dashboard_View_CPM.png">   
 
 <br />
