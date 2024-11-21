@@ -10,7 +10,7 @@ I was in a 6-month COOP fellowship Program where they help first-generation coll
 - [**Excel**](https://github.com/Christopher-Arzate/Social_Media/blob/main/PBL_DA_FA24_CAPSTONE_DATA.csv)
 - [**Page**](https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Data%20Demons%20One%20Pager.pdf)
 - [**Powerpoint**](https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Data%20Demons%20Presentation.pdf)
-- [**Tablue**]()
+- [**Tablue**](https://public.tableau.com/views/capstone_project_17309388390870/Lowest10AudienceTagsUsingCPA?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
