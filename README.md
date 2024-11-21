@@ -1,2 +1,11 @@
 # Social_Media
-A repository to highlight my capstone project in my fellowship at COOP as a data analysts 
+In this repository, I will show you my Capstone Project, which I completed as a fellow in COOP's Data Analysts track. 
+
+## Background
+
+## Files
+- **One Pager**[]()
+- **Powerpoint**[]()
+- **Tablue**[]()
+
+
