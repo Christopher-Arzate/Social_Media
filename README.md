@@ -5,7 +5,7 @@ In this repository, I will show you my Capstone Project, which I completed as a 
 
 ## Files
 - **One Pager** [Page]()
-- **Powerpoint** [Slides](Social_Media/Data Demons Presentation.pdf)
+- **Powerpoint** [Slides](https://github.com/Christopher-Arzate/Social_Media/blob/main/Social_Media/Data%20Demons%20Presentation.pdf)
 - **Tablue** [Charts]()
 
 
